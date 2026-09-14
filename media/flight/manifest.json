@@ -1,0 +1,75 @@
+{
+  "anchors": {},
+  "legs": {
+    "bath__terrace": {
+      "d": {
+        "count": 61,
+        "bytes": 1740018
+      },
+      "m": {
+        "count": 61,
+        "bytes": 1133476
+      },
+      "p": {
+        "count": 61,
+        "bytes": 971908
+      }
+    },
+    "bedroom__bath": {
+      "d": {
+        "count": 61,
+        "bytes": 1788874
+      },
+      "m": {
+        "count": 61,
+        "bytes": 1157582
+      },
+      "p": {
+        "count": 61,
+        "bytes": 990296
+      }
+    },
+    "dining__kitchen": {
+      "d": {
+        "count": 61,
+        "bytes": 2186018
+      },
+      "m": {
+        "count": 61,
+        "bytes": 1445940
+      },
+      "p": {
+        "count": 61,
+        "bytes": 1297114
+      }
+    },
+    "kitchen__bedroom": {
+      "d": {
+        "count": 61,
+        "bytes": 2053020
+      },
+      "m": {
+        "count": 61,
+        "bytes": 1349856
+      },
+      "p": {
+        "count": 61,
+        "bytes": 1142322
+      }
+    },
+    "panorama__dining": {
+      "d": {
+        "count": 61,
+        "bytes": 2591510
+      },
+      "m": {
+        "count": 61,
+        "bytes": 1707718
+      },
+      "p": {
+        "count": 61,
+        "bytes": 1158310
+      }
+    }
+  }
+}
